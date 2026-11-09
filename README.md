@@ -50,7 +50,7 @@ require("whiteboard").setup()
 vim.keymap.set("n", "<leader>wb", "<cmd>Whiteboard<cr>", { desc = "Open whiteboard" })
 ```
 
-## Usage
+## usage
 
 | Command             | Description                                  |
 | ------------------- | -------------------------------------------- |
@@ -59,7 +59,7 @@ vim.keymap.set("n", "<leader>wb", "<cmd>Whiteboard<cr>", { desc = "Open whiteboa
 
 Closing the window and running `:Whiteboard` again brings your drawing back. Quitting Neovim kills the browser and deletes the profile, so the board is gone. Use Excalidraw's own export (PNG, SVG, `.excalidraw`) if you want to keep a drawing.
 
-## Configuration
+## configuration
 
 Defaults:
 
