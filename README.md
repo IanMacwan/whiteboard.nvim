@@ -1,6 +1,6 @@
 # whiteboard.nvim
 
-Open [Excalidraw](https://excalidraw.com) in its own window straight from Neovim for quick sketches and diagrams.
+A Neovim plugin that opens [Excalidraw](https://excalidraw.com) in its own window straight from Neovim for quick sketches and diagrams.
 
 ## requirements
 
